@@ -18,5 +18,18 @@ Game Features:
   
 * Restart Functionality: The player can restart the game by clicking the "Play Again" button, which resets the game state and selects a new random word.
 
+How to Run the Game
+To run the Hangman game, follow these steps:
+
+* Clone the repository or download the files.
+* Open the index.html file in a web browser.
+* Enjoy playing the game!
+
+Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
 > [!NOTE]
 > The code is not made responsive.
