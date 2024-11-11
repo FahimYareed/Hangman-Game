@@ -2,7 +2,7 @@
 
 Hangman is a classic word-guessing game in which the player must guess a hidden word, one letter at a time. The game's interface includes a Hangman figure, a display for the hidden word, sections for displaying wrong letters, and game status.
 
-Game Features:
+## **Game Features:**
 
 * Random Word Selection: The game randomly selects a word from a predefined list of words, grouped into various categories such as "City", "Fruit", "Country", and "Color". The selected category is displayed as a hint to the player.
   
@@ -18,13 +18,13 @@ Game Features:
   
 * Restart Functionality: The player can restart the game by clicking the "Play Again" button, which resets the game state and selects a new random word.
 
-To run the Hangman game, follow these steps:
+## **To run the Hangman game, follow these steps:**
 
 * Clone the repository or download the files.
 * Open the index.html file in a web browser.
 * Enjoy playing the game!
 
-**Technologies Used**
+## **Technologies Used**
 
 * HTML
 * CSS
