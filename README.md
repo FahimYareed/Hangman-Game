@@ -18,7 +18,5 @@ Game Features:
   
 * Restart Functionality: The player can restart the game by clicking the "Play Again" button, which resets the game state and selects a new random word.
 
-
-**** The code is not made responsive ****
 > [!NOTE]
 > The code is not made responsive.
