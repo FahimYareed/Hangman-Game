@@ -17,3 +17,6 @@ Game Features:
 * Notification System: If the player enters a letter they have already guessed, a notification is displayed to inform them that they have already used that letter.
   
 * Restart Functionality: The player can restart the game by clicking the "Play Again" button, which resets the game state and selects a new random word.
+
+
+**** The code is not made responsive ****
