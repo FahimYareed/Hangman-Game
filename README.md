@@ -24,7 +24,7 @@ To run the Hangman game, follow these steps:
 * Open the index.html file in a web browser.
 * Enjoy playing the game!
 
-Technologies Used
+**Technologies Used**
 
 * HTML
 * CSS
