@@ -20,3 +20,5 @@ Game Features:
 
 
 **** The code is not made responsive ****
+> [!NOTE]
+> The code is not made responsive.
