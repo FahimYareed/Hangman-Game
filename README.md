@@ -30,5 +30,3 @@ Hangman is a classic word-guessing game in which the player must guess a hidden 
 * CSS
 * JavaScript
 
-> [!NOTE]
-> The code is not made responsive.
